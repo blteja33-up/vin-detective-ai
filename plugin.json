@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "vin-detective-ai",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Research US vehicle VINs from text or photos, locate exact-VIN salvage auctions and damage photos, explain title and recall risks, and estimate used-car offer ranges with evidence.",
   "author": {"name": "VIN Detective AI"},
   "keywords": ["VIN", "used car", "salvage auction", "vehicle history", "car buying"],
